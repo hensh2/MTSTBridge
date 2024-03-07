@@ -16,7 +16,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MTSTBridge",
-            path: "MTSTBridge.xcframework"
+            path: "artifacts/MTSTBridge.xcframework"
         ),
     ]
 )
